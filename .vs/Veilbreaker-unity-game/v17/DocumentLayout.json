@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "D:\\github\\Veilbreaker-unity-game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D973272B-F856-CE62-3F77-94882062C59D}|Assembly-CSharp.csproj|d:\\github\\veilbreaker-unity-game\\assets\\dimensionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D973272B-F856-CE62-3F77-94882062C59D}|Assembly-CSharp.csproj|d:\\github\\veilbreaker-unity-game\\assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D973272B-F856-CE62-3F77-94882062C59D}|Assembly-CSharp.csproj|solutionrelative:assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D973272B-F856-CE62-3F77-94882062C59D}|Assembly-CSharp.csproj|d:\\github\\veilbreaker-unity-game\\assets\\dimensionobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D973272B-F856-CE62-3F77-94882062C59D}|Assembly-CSharp.csproj|solutionrelative:assets\\dimensionobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D973272B-F856-CE62-3F77-94882062C59D}|Assembly-CSharp.csproj|D:\\github\\Veilbreaker-unity-game\\assets\\dimensionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D973272B-F856-CE62-3F77-94882062C59D}|Assembly-CSharp.csproj|solutionrelative:assets\\dimensionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,15 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\github\\Veilbreaker-unity-game\\Assets\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerController.cs",
+              "ToolTip": "D:\\github\\Veilbreaker-unity-game\\Assets\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\PlayerController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T21:29:41.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DimensionObject.cs",
+              "DocumentMoniker": "D:\\github\\Veilbreaker-unity-game\\Assets\\DimensionObject.cs",
+              "RelativeDocumentMoniker": "Assets\\DimensionObject.cs",
+              "ToolTip": "D:\\github\\Veilbreaker-unity-game\\Assets\\DimensionObject.cs",
+              "RelativeToolTip": "Assets\\DimensionObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T21:07:03.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DimensionManager.cs",
               "DocumentMoniker": "D:\\github\\Veilbreaker-unity-game\\Assets\\DimensionManager.cs",
               "RelativeDocumentMoniker": "Assets\\DimensionManager.cs",
               "ToolTip": "D:\\github\\Veilbreaker-unity-game\\Assets\\DimensionManager.cs",
               "RelativeToolTip": "Assets\\DimensionManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwDEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T19:44:48.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-20T19:44:48.789Z"
             }
           ]
         }
